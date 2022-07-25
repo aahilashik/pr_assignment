@@ -1,0 +1,8 @@
+# Goal
+sensor_msgs/Image image
+---
+# Result
+geometry_msgs/Pose2D pose
+---
+# Feedback
+int64 counter
